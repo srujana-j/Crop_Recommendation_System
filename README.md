@@ -53,6 +53,6 @@ crop-recommendation/
 │   └── Crop_recommendation.csv  # Dataset used for training and testing
 ├── README.md              # Detailed project overview and instructions
 └── requirements.txt       # Python dependencies
-
+```
 # Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue to discuss them before submitting a pull request.
