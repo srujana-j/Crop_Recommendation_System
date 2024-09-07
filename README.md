@@ -1,6 +1,5 @@
  # Crop Recommendation System
-The Crop Recommendation System is a machine learning application designed to assist farmers in selecting suitable crops based on agricultural parameters. By leveraging historical data and predictive models, the system aims to optimize crop yield and enhance agricultural decision-making.
-
+A crop recommendation system uses machine learning to help farmers select the best crops by analyzing factors like soil type, moisture, weather, temperature, and historical yield data. It recommends crops suited to specific regions, optimizing productivity and sustainability.
 # Features
 - Predictive Modeling: Utilizes machine learning algorithms, including Random Forest Classifier, Logistic Regression, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN), to predict the most suitable crops based on input parameters.
 
